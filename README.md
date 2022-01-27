@@ -3,6 +3,6 @@
  
  Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 
- <a href="https://achalanwebdev.github.io/Documents\estudos\html-css\exercicios/ex001/index.html"> Executar o exercício 001 </a>
+ <a href="https://github.com/AchalanWebDev/html-css/tree/main/exercicios/ex001> Executar o exercício 001 </a>
 
  
